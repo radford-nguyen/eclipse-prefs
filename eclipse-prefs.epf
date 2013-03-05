@@ -1,11 +1,10 @@
-#Mon Mar 04 18:35:55 CST 2013
+#Mon Mar 04 20:13:13 CST 2013
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.enabled=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_new_line_after_label=do not insert
 /instance/com.adobe.flexide.as.core/asASDocColor=\#7D8C93
 /instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedMethodInvocation.color=224,226,228
 /instance/org.epic.perleditor/labelColor=131,148,150
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_comma_in_for_increments=insert
-/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractMethodInvocation.enabled=true
 /instance/ccw.core/ccw.preferences.editor_color.callableSPECIAL_FORM.enabled=true
 /instance/org.eclipse.cdt.ui/content_assist_proposals_background=0,0,0
 /instance/org.eclipse.wst.css.ui/UNIVERSAL=\#678CB1 | null | false | false | false | false
@@ -13,7 +12,6 @@
 /instance/org.eclipse.ant.ui/useAnnotationsPrefPage=true
 /instance/org.cfeclipse.cfml/defaultTextColor=255,255,255
 /instance/org.eclipse.cdt.ui/asm_label=131,148,150
-/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.enabled=true
 /instance/com.powerflasher.fdt.ui/AS_DEFAULT_color=255,255,255
 /instance/ccw.core/ccw.preferences.editor_color.char.bold=false
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.NamespaceModifier_enabled=true
@@ -29,7 +27,7 @@
 /instance/org.eclipse.jdt.ui/sp_cleanup.remove_unnecessary_nls_tags=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.brace_position_for_array_initializer=end_of_line
 /instance/org.eclipse.wst.xml.ui/doctypeExtrenalSysref=\#678CB1 | null | false | false | false | false
-/instance/org.eclipse.ui.editors/clover.covered.colorPreference=47,132,25
+/instance/org.eclipse.ui.editors/clover.covered.colorPreference=42,98,27
 /instance/org.eclipse.jdt.ui/sp_cleanup.remove_unnecessary_casts=true
 /instance/ccw.core/ccw.preferences.editor_color.MACRO.enabled=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_enum_constants=0
@@ -50,7 +48,7 @@
 /instance/org.eclipse.help.ui/browser.x=1320
 /instance/ccw.core/ccw.preferences.editor_color.int=255,0,0
 /instance/org.eclipse.help.ui/browser.w=1024
-/instance/org.eclipse.jdt.ui/java_keyword_return=181,137,0
+/instance/org.eclipse.jdt.ui/java_keyword_return=203,75,22
 /instance/ccw.core/ccw.preferences.editor_color.regex=0,164,15
 /instance/org.eclipse.cdt.ui/hoverModifiers=org.eclipse.cdt.ui.BestMatchHover;0;org.eclipse.cdt.ui.CSourceHover;Ctrl;org.eclipse.cdt.debug.internal.ui.editors.DebugTextHover;\!0;org.eclipse.cdt.ui.CDocHover;\!0;org.eclipse.cdt.ui.AnnotationHover;\!0;
 /instance/org.eclipse.help.ui/browser.h=768
@@ -97,7 +95,7 @@
 /instance/org.eclipse.wst.jsdt.ui/semanticHighlighting.methodDeclarationName.color=38,139,210
 /instance/org.eclipse.wst.html.ui/commentBorder=\#586E75 | null | false | true | false | false
 /instance/com.adobe.flexide.mxml.core/mxmlTextColor=\#839496
-/instance/org.eclipse.jdt.ui/java_doc_tag=220,50,47
+/instance/org.eclipse.jdt.ui/java_doc_tag=88,110,117
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLApplicationTag_enabled=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.tabulation.size=3
 /instance/ccw.core/ccw.preferences.editor_color.SPECIAL_FORM.enabled=true
@@ -177,7 +175,6 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_colon_in_conditional=insert
 /instance/org.eclipse.cdt.make.ui/org.eclipse.cdt.make.ui.editor.comment=102,102,102
 /instance/net.sourceforge.texlipse/com.TexColor=102,102,102
-/instance/org.eclipse.jdt.ui/semanticHighlighting.enum.enabled=true
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLOtherTag_color=247,197,39
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_brace_in_anonymous_type_declaration=insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_brace_in_constructor_declaration=insert
@@ -223,7 +220,7 @@
 /instance/org.eclipse.jdt.ui/useQuickDiffPrefPage=true
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.staticField.color=103,140,177
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLComment_enabled=true
-/instance/org.eclipse.ui.editors/clover.notcovered.colorPreference=139,105,20
+/instance/org.eclipse.ui.editors/clover.notcovered.colorPreference=224,226,228
 @org.eclipse.ui.browser=3.3.100.v20110426
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.color=181,137,0
 /instance/org.erlide.ui/editor/colors/atom/color=255,255,255
@@ -354,6 +351,7 @@
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.BasicSemanticHighlightGenerator.AS3.Setter_enabled=true
 /instance/org.eclipse.jdt.ui/java_multi_line_comment=88,110,117
 /instance/org.eclipse.wst.xml.ui/piContent=\#839496 | null | false | false | false | false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.bold=false
 /instance/org.eclipse.jdt.ui/markOccurrences=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_parameters_in_constructor_declaration=16
 /instance/org.eclipse.wst.xml.ui/cdataBorder=\#678CB1 | null | false | false | false | false
@@ -517,13 +515,13 @@
 /instance/ccw.core/ccw.preferences.editor_color.JAVA_STATIC_METHOD.enabled=true
 /instance/org.erlide.ui/editor/colors/integer/style=0
 /instance/org.python.pydev/BACKQUOTES_COLOR=131,148,150
-/instance/org.eclipse.jdt.ui/semanticHighlighting.interface.color=103,140,177
+/instance/org.eclipse.jdt.ui/semanticHighlighting.interface.color=38,139,210
 /instance/org.eclipse.dltk.ruby.ui/DLTK_default=255,255,255
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_semicolon_in_try_resources=do not insert
 /instance/ccw.core/ccw.preferences.editor_color.float=255,0,0
 /instance/org.eclipse.jdt.ui/sp_cleanup.format_source_code=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.taskPriorities=NORMAL,HIGH,NORMAL
-/instance/org.eclipse.jdt.ui/semanticHighlighting.field.color=103,140,177
+/instance/org.eclipse.jdt.ui/semanticHighlighting.field.color=224,226,228
 /instance/org.eclipse.hyades.execution/CUSTOMPATH_ORG_ECLIPSE_HYADES_PERFMON_AGENTS=;%RASERVER_HOME%\\extensions\\org.eclipse.hyades.perfmon.agents;%RASERVER_HOME%\\extensions\\org.eclipse.hyades.perfmon.agents;%RASERVER_HOME%\\extensions\\org.eclipse.hyades.perfmon.agents;%RASERVER_HOME%\\extensions\\org.eclipse.hyades.perfmon.agents;%RASERVER_HOME%\\extensions\\org.eclipse.hyades.perfmon.agents
 /instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.javadoclocations.migrated=true
 /instance/org.python.pydev/EDITOR_MATCHING_BRACKETS_STYLE=0
@@ -573,7 +571,7 @@
 /instance/org.eclipse.wst.jsdt.ui/semanticHighlighting.localVariable.color=38,139,210
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_comma_in_explicitconstructorcall_arguments=do not insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_opening_paren_in_enum_constant=do not insert
-/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="false" context\="java" deleted\="false" description\="imports for unit test" enabled\="true" name\="_timports">import static org.junit.Assert.*;\nimport static org.mockito.Mockito.*;\nimport static org.mockito.Matchers.*;\nimport static org.hamcrest.CoreMatchers.*;\n\nimport org.junit.After;\nimport org.junit.AfterClass;\nimport org.junit.Before;\nimport org.junit.BeforeClass;\nimport org.junit.Ignore;\nimport org.junit.Test;\n\nimport org.mockito.Mock;\nimport org.mockito.MockitoAnnotations;\nimport org.mockito.invocation.InvocationOnMock;\nimport org.mockito.stubbing.Answer;</template><template autoinsert\="false" context\="java" deleted\="false" description\="unit test fixture methods" enabled\="true" name\="_tmethods">   @BeforeClass\n   public static void setUpBeforeClass() {\n   }\n\n   @Before\n   public void setUp() throws Exception {\n   }\n   \n   @After\n   public void teardown() {\n   }\n   \n   @AfterClass\n   static public void teardownAfterClass() {\n   }</template></templates>
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="false" context\="java" deleted\="false" description\="imports for unit test" enabled\="true" name\="_timports">import static org.junit.Assert.*;\nimport static org.mockito.Mockito.*;\nimport static org.mockito.Matchers.*;\nimport static org.hamcrest.CoreMatchers.*;\n\nimport org.junit.After;\nimport org.junit.AfterClass;\nimport org.junit.Before;\nimport org.junit.BeforeClass;\nimport org.junit.Ignore;\nimport org.junit.Test;\n\nimport org.mockito.Mock;\nimport org.mockito.MockitoAnnotations;\nimport org.mockito.invocation.InvocationOnMock;\nimport org.mockito.stubbing.Answer;</template><template autoinsert\="false" context\="java" deleted\="false" description\="unit test fixture methods" enabled\="true" name\="_tmethods">   @BeforeClass\n   public static void setUpBeforeClass() {\n   }\n\n   @Before\n   public void setUp() throws Exception {\n   }\n   \n   @After\n   public void teardown() {\n   }\n   \n   @AfterClass\n   static public void teardownAfterClass() {\n   }</template><template autoinsert\="true" context\="java-members" deleted\="false" description\="" enabled\="true" name\="_osgi.inject">   @Reference(\n         dynamic\= true,\n         optional\= false,\n         unbind\= "unset${argType}")\n   protected void set${argType}(${argType} impl) {\n      LogForwarder.debug(this, "set IDasbtFactory");\n      ${field} \= impl;\n   }\n   protected void unset${argType}(${argType} impl) {\n      if (${field} \=\= impl) {\n         LogForwarder.debug(this, "unset ${argType}");\n         ${field} \= null;\n      }\n   }</template></templates>
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRC=
 /instance/org.eclipse.cdt.ui/semanticHighlighting.externalSDK.enabled=true
 /instance/org.eclipse.debug.ui/last_selected=Eclipse Application
@@ -594,7 +592,7 @@
 /instance/org.eclipse.ui.workbench/perspectives=<Java>
 /instance/eclihx.ui/hx_editor_string_color=0,164,15
 /instance/ccw.core/ccw.preferences.editor_color.SPECIAL_FORM.bold=false
-/instance/org.eclipse.jdt.ui/java_doc_keyword=160,130,189
+/instance/org.eclipse.jdt.ui/java_doc_keyword=125,140,147
 /instance/org.epic.perleditor/bookmarkIndicationColor=38,139,210
 /instance/org.codehaus.groovy.eclipse.ui/groovy.editor.groovyDoc.tag.enabled=true
 /instance/org.python.pydev/COMMENT_STYLE=0
@@ -657,7 +655,6 @@
 /instance/org.cfeclipse.cfml/javascriptColor=255,255,255
 /instance/org.eclipse.pde.ui/editor.color.default=255,255,255
 /instance/org.eclipse.cdt.ui/semanticHighlighting.localVariable.color=38,139,210
-/configuration/com.cenqua.clover.core/action_when_rebuilding=clear
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.DeprecatedHighlighting.color=\#E0E2E4
 /instance/org.eclipse.cdt.ui/semanticHighlighting.parameterVariable.color=224,226,228
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.brace_position_for_block_in_case=end_of_line
@@ -727,7 +724,7 @@
 /instance/ccw.core/ccw.preferences.editor_color.MACRO=153,153,153
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.abstractMethodInvocation.color=224,226,228
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_assignment_operator=insert
-/instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.color=224,226,228
+/instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.color=103,140,177
 /instance/de.walware.statet.r.ui/text_R_taskTag.color=102,102,102
 /instance/org.python.pydev/KEYWORD_COLOR=181,137,0
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_bracket_in_array_allocation_expression=do not insert
@@ -827,6 +824,7 @@
 /instance/ccw.core/ccw.preferences.editor_color.comment.bold=false
 /instance/com.powerflasher.fdt.ui/JAVADOC_TODO_color=128,0,128
 /instance/org.eclipse.hyades.execution/CLASSPATH_ORG_ECLIPSE_HYADES_LOGGING_CORE=C\:\\Program Files\\eclipse\\plugins\\org.eclipse.hyades.logging.core_4.3.0.v200609190100\\hlcore.jar;C\:\\Program Files\\eclipse\\plugins\\org.eclipse.hyades.logging.core_4.3.0.v200609190100\\hl14.jar;C\:\\Program Files\\eclipse\\plugins\\org.eclipse.hyades.logging.core_4.3.0.v200609190100\\hllog4j.jar;C\:\\Program Files\\eclipse\\plugins\\org.eclipse.hyades.logging.core_4.3.0.v200609190100\\hlcommons.jar;
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotation.bold=true
 /instance/ccw.core/ccw.preferences.editor_color.float.enabled=true
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.Namespace_color=247,197,39
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLModuleTag_enabled=true
@@ -867,7 +865,7 @@
 /instance/org.eclipse.ui.editors/deletionIndicationColor=224,226,228
 /instance/org.eclipse.ui.editors/writeOccurrenceIndicationColor=7,54,66
 /instance/net.sourceforge.texlipse/def.BibColor=255,255,255
-/instance/org.eclipse.jdt.ui/java_comment_task_tag=211,54,130
+/instance/org.eclipse.jdt.ui/java_comment_task_tag=160,130,189
 /instance/org.codehaus.groovy.eclipse.ui/groovy.editor.groovyDoc.keyword.enabled=true
 /instance/org.eclipse.wst.jsdt.ui/semanticHighlighting.localVariableDeclaration.enabled=true
 /instance/org.eclipse.epp.mpc.ui/CatalogDescriptor=http\://marketplace.eclipse.org
@@ -944,7 +942,6 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_closing_paren_in_method_invocation=do not insert
 /instance/de.walware.statet.r.ui/text_Rd_taskTag.color=102,102,102
 /instance/org.eclipse.jdt.ui/sp_cleanup.organize_imports=true
-/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariable.enabled=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.indent_body_declarations_compare_to_type_header=true
 /instance/org.eclipse.jdt.ui/sp_cleanup.use_this_for_non_static_method_access_only_if_necessary=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.blank_lines_before_imports=1
@@ -953,7 +950,7 @@
 /instance/org.eclipse.jst.jsp.ui/tagAttributeEquals=\#839496 | null | false | false | false | false
 /instance/de.walware.statet.r.ui/text_R_rSeparators.color=255,255,255
 /instance/org.erlide.ui/editor/colors/variable/color=247,197,39
-/instance/org.eclipse.jdt.ui/semanticHighlighting.class.color=103,140,177
+/instance/org.eclipse.jdt.ui/semanticHighlighting.class.color=139,136,22
 \!/=
 /instance/eclihx.ui/hx_editor_number_color=255,0,0
 /instance/org.eclipse.wst.css.ui/PSEUDO=\#678CB1 | null | false | false | false | false
@@ -970,6 +967,7 @@
 /instance/ccw.core/ccw.preferences.editor_color.callableMACRO.enabled=true
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.FunctionHighlighting.color=\#678CB1
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_superclass_in_type_declaration=16
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractClass.enabled=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentSuffixes=
 /instance/com.adobe.flexide.as.core/asBracketColor=\#DC322F
 /instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.JavadocView.backgroundColor=128,128,128
@@ -1112,6 +1110,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_bracket_in_array_reference=do not insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_assignment_operator=insert
 /instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Foreground=131,148,150
+/instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.bold=false
 /instance/org.eclipse.pde.runtime/column4=150
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.staticFinalField.color=224,226,228
 /instance/org.eclipse.pde.runtime/column3=150
@@ -1134,13 +1133,14 @@
 /instance/org.eclipse.wst.jsdt.ui/java_keyword=181,137,0
 /instance/org.eclipse.jdt.ui/sp_cleanup.add_generated_serial_version_id=false
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.staticMethodInvocation.enabled=true
+/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.team.cvs.ui.fontsandcolors\tTorg.eclipse.debug.ui.presentation\tTorg.eclipse.egit.ui.GitTheme\tTorg.eclipse.jdt.ui.presentation\tTorg.eclipse.wst.sse.ui\tTorg.eclipse.mylyn.tasks.ui.presentation\tTorg.eclipse.compare.contentmergeviewer.TextMergeViewer\tTorg.eclipse.ui.presentation.default\tTorg.eclipse.mylyn.wikitext.ui.presentation
 /instance/org.eclipse.php.ui/editorColorComment=\#586E75 | null | false | true | false | false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.brace_position_for_switch=end_of_line
 /instance/ccw.core/ccw.preferences.editor_color.RAW_SYMBOL.bold=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_closing_paren_in_method_declaration=do not insert
 /instance/org.python.pydev/FUNC_NAME_STYLE=0
 /instance/org.eclipse.wst.css.ui/URI=\#2AA198 | null | false | false | false | false
-/instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.color=224,226,228
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.color=103,140,177
 /instance/org.eclipse.jdt.debug.ui/org.eclipse.debug.ui.ExpressionView.org.eclipse.jdt.debug.ui.show_null_entries=true
 /instance/org.eclipse.debug.ui/preferredTargets=default\:default|
 /instance/org.eclipse.ui.editors/javaScriptOccurrenceIndicationColor=7,54,66
@@ -1212,7 +1212,7 @@
 /instance/org.erlide.ui/editor/colors/comment/style=0
 /instance/org.eclipse.dltk.tcl.ui/DLTK_single_line_comment=255,255,255
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.number_of_blank_lines_at_beginning_of_method_body=0
-/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariable.color=38,139,210
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariable.color=103,140,177
 /instance/de.walware.statet.r.ui/text_R_rLogicalConstants.color=128,255,0
 @org.eclipse.core.resources=3.7.100.v20110510-0712
 /instance/ccw.core/ccw.preferences.editor_color.callableRAW_SYMBOL=255,255,255
@@ -1298,7 +1298,6 @@
 /instance/com.powerflasher.fdt.ui/AS_CORE_color=156,248,40
 @com.github.eclipsecolortheme=0.12.0.201207240713
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.5
-/instance/org.eclipse.jdt.ui/java_doc_default_bold=true
 /instance/org.eclipse.wst.jsdt.ui/tagName=103,140,177
 /instance/org.eclipse.ui.editors/clover.incidental.highlightPreference=false
 /instance/org.eclipse.jdt.ui/sp_cleanup.remove_trailing_whitespaces=false
@@ -1314,7 +1313,7 @@ file_export_version=3.0
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_comma_in_multiple_local_declarations=insert
 /instance/com.powerflasher.fdt.ui/MULTILINE_COMMENT_color=102,102,102
 /instance/org.eclipse.cdt.ui/semanticHighlighting.macroDefinition.enabled=true
-/instance/org.eclipse.jdt.ui/java_string=42,161,152
+/instance/org.eclipse.jdt.ui/java_string=42,108,103
 /instance/org.eclipse.pde.ui/editor.color.header_assignment=255,255,255
 /instance/org.python.pydev/FUNC_NAME_COLOR=103,140,177
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.typeParameter.color=181,137,0
@@ -1377,12 +1376,13 @@ file_export_version=3.0
 /instance/net.sourceforge.texlipse/cmd.TexColor=247,197,39
 /instance/de.walware.statet.base.ui/editors/options/Proposals.background=0,0,0
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_expressions_in_array_initializer=16
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractMethodInvocation.italic=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.blank_lines_before_field=0
 /instance/org.eclipse.dltk.ruby.ui/content_assist_completion_replacement_foreground=255,255,255
 /instance/org.eclipse.cdt.ui/semanticHighlighting.field.enabled=true
 /instance/ccw.core/ccw.preferences.editor_color.callableFUNCTION=241,196,56
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_paren_in_enum_constant=do not insert
-/instance/org.eclipse.jdt.ui/java_doc_default=125,140,147
+/instance/org.eclipse.jdt.ui/java_doc_default=88,110,117
 /instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.enabled=true
 /instance/org.eclipse.jdt.ui/sp_cleanup.make_parameters_final=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.keep_imple_if_on_one_line=false
@@ -1434,6 +1434,7 @@ file_export_version=3.0
 /instance/org.eclipse.jdt.ui/formatter_settings_version=12
 /instance/org.eclipse.dltk.tcl.ui/content_assist_parameters_background=0,0,0
 /instance/org.eclipse.cdt.ui/semanticHighlighting.function.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticFinalField.bold=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_brace_in_annotation_type_declaration=insert
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.FieldHighlighting.enabled=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
